@@ -9,10 +9,10 @@ This will add your ESP32 board to the Arduino IDE. Now you can access ESP32 boar
 
 OLED--------ESP32
 
--GND---------GND
--VCC---------3.3V
--SDA---------SDA(21)
--SCL---------SCL(22)
+- GND---------GND
+- VCC---------3.3V
+- SDA---------SDA(21)
+- SCL---------SCL(22)
 
 3. **Button_menu** :- Code for implementing button Menu considering Debouncing effect.
 4. **Gpio_test**   :- Testing the Gpio Pins and Printing According to the button.
